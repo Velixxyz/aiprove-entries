@@ -1,0 +1,91 @@
+{
+ "forecast-btc-7d": {
+  "submit": {
+   "status": 201,
+   "id": "dbc0b2a0-dd9a-4318-bb42-4bf548800769"
+  }
+ },
+ "forecast-eth-24h": {
+  "submit": {
+   "status": 201,
+   "id": "28eb7fdf-b0e1-4078-9e71-455fd778bc2d"
+  }
+ },
+ "forecast-gold-tomorrow": {
+  "submit": {
+   "status": 201,
+   "id": "db6a21c1-28e4-4081-a4fc-faa5705f83ec"
+  }
+ },
+ "forecast-nvda-3d": {
+  "submit": {
+   "status": 201,
+   "id": "59cb1d34-355f-4cf1-9b8c-aacd97e4e0fb"
+  }
+ },
+ "signal-eth-pnl-24h": {
+  "submit": {
+   "status": 201,
+   "id": "be7e3332-025f-45ec-a5fd-20acea66cfd6"
+  }
+ },
+ "spy-close-1dollar": {
+  "submit": {
+   "status": 201,
+   "id": "3b143b9a-60ba-47b9-9e23-8ba98c8117d2"
+  }
+ },
+ "top5-pons-24h": {
+  "submit": {
+   "status": 201,
+   "id": "9a52ba4c-80af-4a5d-8182-a8a2e5cc7651"
+  }
+ },
+ "_verified": [
+  {
+   "slug": "btc-tomorrow",
+   "id": "c18a7b6f-9135-4858-a1dd-1b2ab5cbe72a",
+   "status": "provenance_ok"
+  },
+  {
+   "slug": "bug-hunt-utils",
+   "id": "6410ac65-2c08-4fc7-836b-2c78e35a9bc5",
+   "status": "provenance_ok"
+  },
+  {
+   "slug": "forecast-btc-7d",
+   "id": "dbc0b2a0-dd9a-4318-bb42-4bf548800769",
+   "status": "provenance_ok"
+  },
+  {
+   "slug": "forecast-eth-24h",
+   "id": "28eb7fdf-b0e1-4078-9e71-455fd778bc2d",
+   "status": "provenance_ok"
+  },
+  {
+   "slug": "forecast-gold-tomorrow",
+   "id": "db6a21c1-28e4-4081-a4fc-faa5705f83ec",
+   "status": "provenance_ok"
+  },
+  {
+   "slug": "forecast-nvda-3d",
+   "id": "59cb1d34-355f-4cf1-9b8c-aacd97e4e0fb",
+   "status": "provenance_ok"
+  },
+  {
+   "slug": "signal-eth-pnl-24h",
+   "id": "be7e3332-025f-45ec-a5fd-20acea66cfd6",
+   "status": "provenance_ok"
+  },
+  {
+   "slug": "spy-close-1dollar",
+   "id": "3b143b9a-60ba-47b9-9e23-8ba98c8117d2",
+   "status": "provenance_ok"
+  },
+  {
+   "slug": "top5-pons-24h",
+   "id": "9a52ba4c-80af-4a5d-8182-a8a2e5cc7651",
+   "status": "provenance_ok"
+  }
+ ]
+}
